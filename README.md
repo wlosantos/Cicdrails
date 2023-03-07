@@ -1,4 +1,5 @@
-# README
+![workflow lint](https://github.com/wlosantos/Cicdrails/actions/workflows/.lint.yml/badge.svg) ![workflow lint](https://github.com/wlosantos/Cicdrails/actions/workflows/.tests.yml/badge.svg)
+# CI/CD Rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
